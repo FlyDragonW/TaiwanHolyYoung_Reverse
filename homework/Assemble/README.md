@@ -1,4 +1,3 @@
-# Assemble
 ## Challenge
 ```
 What will this program print with argument `5431`  
