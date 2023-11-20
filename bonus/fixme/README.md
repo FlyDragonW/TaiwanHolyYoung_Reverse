@@ -1,4 +1,3 @@
-# Fixme
 ## Challenge
 ```
 Fix this C program and execute it.
