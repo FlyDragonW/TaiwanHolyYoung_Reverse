@@ -1,4 +1,3 @@
-# Assemble+
 ## Challenge
 ```
 I execute this program with flag and got this output:  
