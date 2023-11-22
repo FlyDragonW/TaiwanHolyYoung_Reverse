@@ -1,6 +1,6 @@
 ## Challenge Name
 ```
-0x08-Equation
+0x08-Z3
 ```
 ## Challenge
 ```
