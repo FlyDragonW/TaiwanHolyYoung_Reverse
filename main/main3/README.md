@@ -1,15 +1,15 @@
 ## Challenge Name
 ```
-0x03-Patch
+0x03-Static
 ```
 ## Challenge
 ```
-What a cute PATCH! Where did you buy it?  
+Where is the password?  
 Author: FlyDragon
 ```
 ## File
 - `main_3`
 ## Flag
 ```
-FLAG{It's_noT_poss1bl3!!!}
+FLAG{h0w_d1d_y0u_g3t_p4sswd}
 ```
