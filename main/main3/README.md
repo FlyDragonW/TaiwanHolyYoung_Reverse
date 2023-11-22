@@ -1,6 +1,6 @@
 ## Challenge Name
 ```
-0x03-Static
+0x03-String
 ```
 ## Challenge
 ```
