@@ -1,0 +1,7 @@
+x = 12
+y = 9
+a = x AND y
+b = x OR y
+c = x XOR y
+d = NOT x
+flag = a+b+c+d
