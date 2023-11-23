@@ -6,6 +6,7 @@
 ```
 I know you love math.  
 flag format: FLAG{x*y}
+Author: FlyDragon
 ```
 ## File
 - `main_8`
