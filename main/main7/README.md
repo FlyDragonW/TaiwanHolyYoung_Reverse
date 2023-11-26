@@ -1,6 +1,6 @@
 ## Challenge Name
 ```
-0x08-Assembly
+0x07-Assembly
 ```
 ## Challenge
 ```
@@ -14,3 +14,5 @@ Author: FlyDragon
 ```
 FLAG{0xfaceb00c}
 ```
+## Solve
+題目可以簡化成 0x3eb3ac03 * 4 ，即為 flag
