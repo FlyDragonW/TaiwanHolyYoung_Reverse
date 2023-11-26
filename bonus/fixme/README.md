@@ -10,3 +10,5 @@ Author: FlyDragon
 ```
 FLAG{Written_in_C}
 ```
+## Solve
+修復後執行
