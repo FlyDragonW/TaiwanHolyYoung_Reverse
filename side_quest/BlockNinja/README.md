@@ -13,3 +13,5 @@ Author：FlyDragon
 ```
 LoTuX{M4rAv1ll0sa_juGada!}
 ```
+## Solve
+使用 Dnspy 破解遊戲，抵達終點後取得 flag
