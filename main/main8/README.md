@@ -14,3 +14,7 @@ Author: FlyDragon
 ```
 FLAG{1760000}
 ```
+## Solve
+```
+python3 solve.py
+```
