@@ -14,3 +14,5 @@ Author: FlyDragon
 ```
 FLAG{Ca3sar_Sa1ad}
 ```
+## Solve
+分析後得知是凱薩密碼的程式，位移為 7
