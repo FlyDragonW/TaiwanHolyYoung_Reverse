@@ -13,3 +13,7 @@ Author: FlyDragon
 ```
 FLAG{begins_with_a_small_step}
 ```
+## Solve
+```
+./main_1
+```
