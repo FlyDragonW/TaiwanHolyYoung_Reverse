@@ -9,3 +9,5 @@ Flag format: FLAG{hex value} (include 0x)
 ```
 FLAG{0xbeef}
 ```
+## Solve
+可簡化成 5431 * 3 * 3
