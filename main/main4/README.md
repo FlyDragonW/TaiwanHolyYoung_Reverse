@@ -13,3 +13,5 @@ Author: FlyDragon
 ```
 FLAG{It's_noT_poss1bl3!!!}
 ```
+## Solve
+將 0x00001319 jne 改為 je
