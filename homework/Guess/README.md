@@ -9,3 +9,5 @@ Author: FlyDragon
 ```
 FLAG{LuCky_gu3s53r}
 ```
+## Solve
+動態分析可得知隨機數，猜中後得到 flag
