@@ -9,3 +9,7 @@ Author: FlyDragon
 ```
 FLAG{0rder_1n_Ch4Os}
 ```
+## Solve
+```
+./mess | grep FLAG
+```
