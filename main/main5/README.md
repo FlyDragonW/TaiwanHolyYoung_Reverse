@@ -1,6 +1,6 @@
 ## Challenge Name
 ```
-0x04-Static
+0x04-IDA
 ```
 ## Challenge
 ```
