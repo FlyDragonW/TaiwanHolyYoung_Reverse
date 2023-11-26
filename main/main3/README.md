@@ -1,6 +1,6 @@
 ## Challenge Name
 ```
-0x03-String
+0x03-Static
 ```
 ## Challenge
 ```
@@ -13,3 +13,5 @@ Author: FlyDragon
 ```
 FLAG{h0w_d1d_y0u_g3t_p4sswd}
 ```
+## Solve
+r2 靜態分析得知密碼為 "TOP_SECRET"，輸入後得到 flag
