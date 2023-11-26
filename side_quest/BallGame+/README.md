@@ -9,3 +9,5 @@ Author: FlyDragon
 ```
 FLAG{Extract_1mage}
 ```
+## Solve
+使用 Asset Studio 提取 flag 圖片
