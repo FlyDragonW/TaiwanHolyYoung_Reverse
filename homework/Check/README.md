@@ -9,3 +9,7 @@ Author: FlyDragon
 ```
 FLAG{XO0$0!oO_O#OR}
 ```
+## Solve
+```
+python3 solve.py
+```
