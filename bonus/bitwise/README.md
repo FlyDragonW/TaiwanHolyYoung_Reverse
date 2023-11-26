@@ -9,3 +9,7 @@ Author: FlyDragon
 ```
 FLAG{13}
 ```
+## Solve
+```
+python3 solve.py
+```
