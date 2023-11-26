@@ -9,3 +9,5 @@ Author: FlyDragon
 ```
 FLAG{you_Ch3at!}
 ```
+## Solve
+使用 Cheat Engine 修改得分
