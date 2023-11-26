@@ -11,3 +11,7 @@ Author: FlyDragon
 ```
 FLAG{!SW@PTH4T!}
 ```
+## Solve
+```
+python3 solve.py
+```
