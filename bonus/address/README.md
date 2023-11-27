@@ -1,6 +1,6 @@
 ## Challenge
 ```
-Flag format: FLAG{0x??????}  
+Flag format: FLAG{0x??????} (start address)  
 Author: FlyDragon
 ```
 ## File
