@@ -1,7 +1,7 @@
 ## Challenge
 ```
-「方塊忍者」是一款在 2023 年發售的 2D 電腦遊戲。  
-請操控主角進入邪惡組織 _LoTuX_ 的大本營並搶走旗幟！  
+"BlockNinja" is a 2D computer game released in 2023.  
+Please break into the headquarters of the evil organization _LoTuX_ and steal their flag!  
 
 Flag format: LoTuX{.*}  
 
