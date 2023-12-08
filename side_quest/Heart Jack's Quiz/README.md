@@ -1,8 +1,8 @@
 ## Challenge
 ```
-"Heart Jack's Quiz"
-If you answer incorrectly even once, you will perish!
-But can you really pass it ...?
+"Heart Jack's Quiz"  
+If you answer incorrectly even once, you will perish!  
+But can you really pass it ...?  
 
 Flag format: LoTuX{.*}  
 
