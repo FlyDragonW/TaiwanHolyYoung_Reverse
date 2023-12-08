@@ -1,8 +1,8 @@
 ## Challenge
 ```
-「紅心J的問答」  
-只要回答錯誤一次就會命喪於此！  
-但是這真的能通關嗎 ...？
+"Heart Jack's Quiz"
+If you answer incorrectly even once, you will perish!
+But can you really pass it ...?
 
 Flag format: LoTuX{.*}  
 
